@@ -1,0 +1,6 @@
+h1 {
+    background: hsla(207, 16%, 73%, 0.623);
+}
+
+
+<a class=" text-white border-x-2 border-y-2 border-btnbg hover:bg-btnbg py-3 px-5 rounded-3xl align-middle" href="#">Contact us</a>
